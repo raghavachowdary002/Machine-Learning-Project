@@ -15,5 +15,14 @@ obstacle, diffraction around the obstacle, and transmission through the obstacle
 **4. Training Model:** We are training our model using Multi-layer Perceptron classifier model in this project. As shown in Figure 9, first layer is taken from data and it is visible layer of model. The second layer of model is called as hidden layer as it is not visible to input, and which can consist multiple layers of neurons in it. The last hidden layer is also known as an output layer which is accountable for generating an output targeted values of given problem. 
     ![mlp](https://user-images.githubusercontent.com/84661500/120302693-6f392680-c2ce-11eb-9f8e-0a78de7c21d3.png)
 
+The actual concept of neural network model which is specifically known as Multi-layer Perceptron classifier, is to obtain linear combinations of the given inputs as derived features and then model the target as a nonlinear function of these features. We used the MLPClassifier function in the sklearn Python library for MLP. We selected stochastic gradient-based optimizer proposed by Kingma, Diederik, and Jimmy Ba as the solver forweight optimization (ie, solver = “adam”) because of large dataset. We considered hyperparameters, including different hidden layer sizes and activation functions.
+
+**5. Prediction:** This field consist of replication of biological brain model to resolve the computational problems n machine learning. The purpose of this model creation is not redesigning the real model like brain, but to form an algorithm to resolve the problems with various data structure. The understanding of neural network comes by their representation ability of learning training data and relate it to the output or target data that we want to predict. larger weights prone to complexity of network and fragility of model. It is always expected to keep your model weights minimum to reduce complexity. Activation function which is also called as transfer function in mathematical terms helps all weights to passed through t for further process. In this scenario neural networks trying to learn a mapping. The hierarchical and multilayer structure of MLP classifier helps model’s prediction capability. 
+**6. Measurements:** Performance of the multilayer neural network classifier evaluated using parameters such as precision, sensitivity and specificity and the receiver operating curves (ROC). We have achieved an accuracy of 92%.
+
+# Application Testing:
+
+  
+
 
 
