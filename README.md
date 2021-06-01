@@ -1,4 +1,6 @@
 # Machine-Learning-Project
+**Designed a Graphical User Interface(GUI) and integrated with a Machine Learning model to classify the reflected sound signals.**
+
 A sound wave upon its transmission doesn’t just  stop after reaching the end of the medium. Certain behaviors will be exhibited by the sound wave such as reflection off the 
 obstacle, diffraction around the obstacle, and transmission through the obstacle. By recording the reflected signal, a time signal can be generated. This time signal results from the convolution of the incident acoustic wave with the surface properties of the reflecting object. By analyzing the reflected signal one can conclude on the reflecting object. The Machine learning (ML) techniques have enabled significant advancements in automated data processing and pattern recognition capabilities in a variety of fields. ML in acoustics is a promising development with many credible solutions to the acoustics challenges. This project reviews the ML model called MLP (Multi-Layer Perceptron) to discriminate the reflected sound signal using the time signal and to predict the type of reflecting object. 
 
