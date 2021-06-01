@@ -29,9 +29,13 @@ https://www.python.org/downloads/
 3.	Now open the python file(.py) in the IDE.
 4.	Open the Terminal and import the packages using the following commands. Do it one after another.
     i.	pip install pandas
+    
     ii.	pip install numpy
-    iii.	pip install sklearn
+    
+    iii.pip install sklearn
+    
     iv.	pip install seaborn
+    
     v.	pip install matplotlib
 5.  After installing the required packages, run the program. Now a gui window will be opened and follow the instructions.
 
