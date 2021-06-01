@@ -23,6 +23,10 @@ The actual concept of neural network model which is specifically known as Multi-
 
 **6. Measurements:** Performance of the multilayer neural network classifier evaluated using parameters such as precision, sensitivity and specificity and the receiver operating curves (ROC). We have achieved an accuracy of 92%.
 
+Graphical User Interface:
+
+![gui](https://user-images.githubusercontent.com/84661500/120304469-1b2f4180-c2d0-11eb-9adf-3ea20de5f113.png)
+
 # Installation Guide:
 Below are the following steps to test the project.
 1.	Install Python from the below link. This project is implemented in Python 3.9.
