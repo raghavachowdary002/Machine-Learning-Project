@@ -6,5 +6,7 @@ obstacle, diffraction around the obstacle, and transmission through the obstacle
 
 ![ml](https://user-images.githubusercontent.com/84661500/120301528-3d739000-c2cd-11eb-8b6d-56bc399d5714.jpg)
 
+1.Collecting Dataset: We used dataset for reflected waves from object1, object2, object3. This dataset contains 3400 column sound excerpts. There are 3 different classes in the                         dataset, i.e., Object #1, Object #2, Object #3
+
 
 
